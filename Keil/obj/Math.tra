@@ -1,0 +1,28 @@
+*** Creating Trace Output File '.\obj\Math.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '".\obj\core_cm0.o"'
+### List of Objects: adding '".\obj\system_nuc100series.o"'
+### List of Objects: adding '".\obj\startup_nuc100series.o"'
+### List of Objects: adding '".\obj\lcd.o"'
+### List of Objects: adding '".\obj\main.o"'
+### List of Objects: adding '".\obj\gpio.o"'
+### List of Objects: adding '".\obj\sys.o"'
+### List of Objects: adding '".\obj\spi.o"'
+### List of Objects: adding '".\obj\sys_init.o"'
+### List of Objects: adding '".\obj\clk.o"'
+### ADS-LD Command completed:
+--cpu Cortex-M0 ".\obj\core_cm0.o" ".\obj\system_nuc100series.o" ".\obj\startup_nuc100series.o" ".\obj\lcd.o" ".\obj\main.o" ".\obj\gpio.o" ".\obj\sys.o" ".\obj\spi.o" ".\obj\sys_init.o" ".\obj\clk.o" --ro-base 0x00000000 --entry 0x00000000 --rw-base 0x20000000 --entry Reset_Handler --first __Vectors --strict --map --first='startup_NUC100Series.o(RESET)' --datacompressor=off --info=inline --entry Reset_Handler
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\lst\Math.map" -o ".\obj\Math.axf"### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: '.\obj\Math.axf'
+### ADS-LD Command File: '.\obj\Math.lnp'
+### Checking for dirty Components...
+### Creating CmdFile '.\obj\Math.lnp', Handle=0x00001304
+### Writing '.lnp' file
+### ADS-LD Command file '.\obj\Math.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.

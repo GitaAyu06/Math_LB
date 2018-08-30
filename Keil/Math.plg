@@ -1,0 +1,60 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+C:\Users\bambang\Desktop\Math_LB\Keil\Math.uvproj
+Project File Date:  08/29/2018
+
+<h2>Output:</h2>
+Build target 'Math_LB'
+compiling core_cm0.c...
+core_cm0.c: Error: C3065E: type of input file 'Digital\Novuton\Nu-LB-NUC140_BSP3.00.004_v1.2\Library\CMSIS\Include' unknown
+core_cm0.c: Error: C3065E: type of input file 'Digital\Novuton\Nu-LB-NUC140_BSP3.00.004_v1.2\Library\Device\Nuvoton\NUC100Series\Source' unknown
+core_cm0.c: Error: C3065E: type of input file 'Digital\Novuton\Nu-LB-NUC140_BSP3.00.004_v1.2\Library\Device\Nuvoton\NUC100Series\Source\ARM' unknown
+core_cm0.c: Error: C3065E: type of input file 'Digital\Novuton\Nu-LB-NUC140_BSP3.00.004_v1.2\Library\Nu-LB-NUC140\Source' unknown
+core_cm0.c: Error: C3065E: type of input file 'Digital\Novuton\Nu-LB-NUC140_BSP3.00.004_v1.2\Library\StdDriver\src' unknown
+core_cm0.c: Error: C3065E: type of input file 'Digital\Novuton\Nu-LB-NUC140_BSP3.00.004_v1.2\Library\StdDriver\inc' unknown
+core_cm0.c: Error: C3065E: type of input file 'Digital\Novuton\Nu-LB-NUC140_BSP3.00.004_v1.2\Library\Device\Nuvoton\NUC100Series\Include' unknown
+core_cm0.c: Error: C3065E: type of input file 'Digital\Novuton\Nu-LB-NUC140_BSP3.00.004_v1.2\Library\Nu-LB-NUC140\Include' unknown
+core_cm0.c: Error: C3065E: type of input file 'Digital\Novuton\Nu-LB-NUC140_BSP3.00.004_v1.2\SampleCode\Nu-LB-NUC140\LCD' unknown
+Target not created
+Build target 'Math_LB'
+compiling core_cm0.c...
+core_cm0.c: Error: C3065E: type of input file 'Digital\Novuton\Nu-LB-NUC140_BSP3.00.004_v1.2\Library\CMSIS\Include' unknown
+core_cm0.c: Error: C3065E: type of input file 'Digital\Novuton\Nu-LB-NUC140_BSP3.00.004_v1.2\Library\Device\Nuvoton\NUC100Series\Source' unknown
+core_cm0.c: Error: C3065E: type of input file 'Digital\Novuton\Nu-LB-NUC140_BSP3.00.004_v1.2\Library\Device\Nuvoton\NUC100Series\Source\ARM' unknown
+core_cm0.c: Error: C3065E: type of input file 'Digital\Novuton\Nu-LB-NUC140_BSP3.00.004_v1.2\Library\Nu-LB-NUC140\Source' unknown
+core_cm0.c: Error: C3065E: type of input file 'Digital\Novuton\Nu-LB-NUC140_BSP3.00.004_v1.2\Library\StdDriver\src' unknown
+core_cm0.c: Error: C3065E: type of input file 'Digital\Novuton\Nu-LB-NUC140_BSP3.00.004_v1.2\Library\StdDriver\inc' unknown
+core_cm0.c: Error: C3065E: type of input file 'Digital\Novuton\Nu-LB-NUC140_BSP3.00.004_v1.2\Library\Device\Nuvoton\NUC100Series\Include' unknown
+core_cm0.c: Error: C3065E: type of input file 'Digital\Novuton\Nu-LB-NUC140_BSP3.00.004_v1.2\Library\Nu-LB-NUC140\Include' unknown
+core_cm0.c: Error: C3065E: type of input file 'Digital\Novuton\Nu-LB-NUC140_BSP3.00.004_v1.2\SampleCode\Nu-LB-NUC140\LCD' unknown
+core_cm0.c: Error: C3065E: type of input file 'Digital\Novuton\Nu-LB-NUC140_BSP3.00.004_v1.2\Library\CMSIS\Include' unknown
+Target not created
+Build target 'Math_LB'
+compiling core_cm0.c...
+core_cm0.c: Error: C3065E: type of input file 'Digital\Novuton\Nu-LB-NUC140_BSP3.00.004_v1.2\Library\CMSIS\Include' unknown
+core_cm0.c: Error: C3065E: type of input file 'Digital\Novuton\Nu-LB-NUC140_BSP3.00.004_v1.2\Library\Device\Nuvoton\NUC100Series\Source' unknown
+core_cm0.c: Error: C3065E: type of input file 'Digital\Novuton\Nu-LB-NUC140_BSP3.00.004_v1.2\Library\Device\Nuvoton\NUC100Series\Source\ARM' unknown
+core_cm0.c: Error: C3065E: type of input file 'Digital\Novuton\Nu-LB-NUC140_BSP3.00.004_v1.2\Library\Nu-LB-NUC140\Source' unknown
+core_cm0.c: Error: C3065E: type of input file 'Digital\Novuton\Nu-LB-NUC140_BSP3.00.004_v1.2\Library\StdDriver\src' unknown
+core_cm0.c: Error: C3065E: type of input file 'Digital\Novuton\Nu-LB-NUC140_BSP3.00.004_v1.2\Library\StdDriver\inc' unknown
+core_cm0.c: Error: C3065E: type of input file 'Digital\Novuton\Nu-LB-NUC140_BSP3.00.004_v1.2\Library\Device\Nuvoton\NUC100Series\Include' unknown
+core_cm0.c: Error: C3065E: type of input file 'Digital\Novuton\Nu-LB-NUC140_BSP3.00.004_v1.2\Library\Nu-LB-NUC140\Include' unknown
+core_cm0.c: Error: C3065E: type of input file 'Digital\Novuton\Nu-LB-NUC140_BSP3.00.004_v1.2\SampleCode\Nu-LB-NUC140\LCD' unknown
+core_cm0.c: Error: C3065E: type of input file 'Digital\Novuton\Nu-LB-NUC140_BSP3.00.004_v1.2\Library\CMSIS\Include' unknown
+Target not created
+Build target 'Math_LB'
+compiling core_cm0.c...
+core_cm0.c: Error: C3065E: type of input file 'Digital\Novuton\Nu-LB-NUC140_BSP3.00.004_v1.2\Library\CMSIS\Include' unknown
+core_cm0.c: Error: C3065E: type of input file 'Digital\Novuton\Nu-LB-NUC140_BSP3.00.004_v1.2\Library\Device\Nuvoton\NUC100Series\Source' unknown
+core_cm0.c: Error: C3065E: type of input file 'Digital\Novuton\Nu-LB-NUC140_BSP3.00.004_v1.2\Library\Device\Nuvoton\NUC100Series\Source\ARM' unknown
+core_cm0.c: Error: C3065E: type of input file 'Digital\Novuton\Nu-LB-NUC140_BSP3.00.004_v1.2\Library\Nu-LB-NUC140\Source' unknown
+core_cm0.c: Error: C3065E: type of input file 'Digital\Novuton\Nu-LB-NUC140_BSP3.00.004_v1.2\Library\StdDriver\src' unknown
+core_cm0.c: Error: C3065E: type of input file 'Digital\Novuton\Nu-LB-NUC140_BSP3.00.004_v1.2\Library\StdDriver\inc' unknown
+core_cm0.c: Error: C3065E: type of input file 'Digital\Novuton\Nu-LB-NUC140_BSP3.00.004_v1.2\Library\Device\Nuvoton\NUC100Series\Include' unknown
+core_cm0.c: Error: C3065E: type of input file 'Digital\Novuton\Nu-LB-NUC140_BSP3.00.004_v1.2\Library\Nu-LB-NUC140\Include' unknown
+core_cm0.c: Error: C3065E: type of input file 'Digital\Novuton\Nu-LB-NUC140_BSP3.00.004_v1.2\SampleCode\Nu-LB-NUC140\LCD' unknown
+core_cm0.c: Error: C3065E: type of input file 'Digital\Novuton\Nu-LB-NUC140_BSP3.00.004_v1.2\Library\CMSIS\Include' unknown
+Target not created
